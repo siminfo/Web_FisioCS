@@ -7,7 +7,7 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner carousel-zoom">
                 <div class="item active">
-                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/2440x1578.png);"></div>
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/home.jpg);"></div>
                     <div class="box-table">
                         <div class="box-cell">
                             <div class="container">
@@ -28,7 +28,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/2440x1578.png);"></div>
+                  <div class="slider-thumb bg-cover" style="background-image: url(assets/img/home2.jpg);"></div>
                     <div class="box-table">
                         <div class="box-cell">
                             <div class="container">
@@ -49,7 +49,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/2440x1578.png);"></div>
+                  <div class="slider-thumb bg-cover" style="background-image: url(assets/img/home.jpg);"></div>
                     <div class="box-table">
                         <div class="box-cell">
                             <div class="container">
@@ -114,8 +114,8 @@
                     <div class="col-md-6 tabs-items">
                         <!-- Tab Nav -->
                         <ul class="nav nav-pills">
-                            <li>
-                                <a data-toggle="tab" href="#tab2" aria-expanded="false">
+                            <li class="active">
+                                <a data-toggle="tab" href="#tab2" class="active" aria-expanded="true">
                                     <i class="fas fa-map-marker-alt"></i> Localización
                                 </a>
                             </li>
@@ -144,7 +144,7 @@
                             <!-- End Single Item -->
 
                             <!-- Single Item -->
-                            <div id="tab2" class="tab-pane fade">
+                            <div id="tab2" class="tab-pane fade active in" aria-expanded="true">
                                 <div class="info title">
                                     <h3>Localización</h3>
                                     <p>
@@ -306,7 +306,7 @@
     <div class="chose-us-area item-half">
         <div class="container-full">
             <div class="row">
-                <div class="col-md-6 thumb bg-cover" style="background-image: url(assets/img/2440x1578.png);"></div>
+                <div class="col-md-6 thumb bg-cover" style="background-image: url(assets/img/home3.jpg);"></div>
                 <div class="col-md-6 info">
                     <div class="heading">
                         <h2>Porque confiar en nosotros</h2>
@@ -587,10 +587,10 @@
                                 <!-- Single Item -->
                                 <div class="pf-item development capital">
                                     <div class="effect-box">
-                                        <img src="assets/img/800x800.png" alt="thumb">
+                                        <img src="assets/img/galeria_1.jpg" alt="thumb">
                                         <div class="info">
-                                          <h4><a href="#">Empire State</a></h4>
-                                          <a href="assets/img/800x800.png" class="item popup-link"><i class="fa fa-plus"></i></a>
+                                          <h4><a href="#"></a></h4>
+                                          <a href="assets/img/galeria_1.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -598,10 +598,10 @@
                                 <!-- Single Item -->
                                 <div class="pf-item consulting branding">
                                     <div class="effect-box">
-                                        <img src="assets/img/800x800.png" alt="thumb">
+                                            <img src="assets/img/galeria_2.jpg" alt="thumb">
                                         <div class="info">
-                                          <h4><a href="#">Empire State</a></h4>
-                                          <a href="assets/img/800x800.png" class="item popup-link"><i class="fa fa-plus"></i></a>
+                                          <h4><a href="#"></a></h4>
+                                          <a href="assets/img/galeria_2.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                                         </div>
                                     </div>
                                 </div>
