@@ -38,7 +38,7 @@
                         <div class="item">
                             <i class="fas fa-phone"></i>
                             <h4>Teléfono</h4>
-                            <h2>+633 527 882</h2>
+                            <h2>+633 528 982</h2>
                         </div>
                     </div>
                     <!-- End Single Item -->

@@ -58,10 +58,10 @@
                                 <i class="fas fa-map-marker-alt"></i> C/ Alcalde José Luís Lassaletta, 17, 03008 Alicante
                             </li>
                             <li>
-                                <i class="fas fa-envelope-open"></i> info@clinicaserrano.com
+                                <i class="fas fa-envelope-open"></i> info@serranoclinica.com
                             </li>
                             <li>
-                                <i class="fas fa-phone"></i> +633 527 882
+                                <i class="fas fa-phone"></i> +633 528 982
                             </li>
                         </ul>
                     </div>
@@ -70,9 +70,7 @@
                   
                     <ul class="link">
                         <li  style="margin-right: 10px " href="#" class="facebook"><a href="https://www.facebook.com/Clinica-Serrano-113104543431523/"><i class="fab fa-facebook-f"></i></a></li>
-                        <li style="margin-right: 10px " href="#" class="twitter"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                        <li style="margin-right: 10px " href="#" class="pinterest"><a href="#"><i class="fab fa-instagram"></i></a></li>
-                
+                        <li style="margin-right: 10px " href="#" class="instagram"><a href="#"><i class="fab fa-instagram"></i></a></li>
                     </ul>
                 </div>
                 </div>
@@ -135,16 +133,41 @@
 
                     <ul class="nav navbar-nav navbar-right" data-in="#" data-out="#">
                         <li class="dropdown active">
-                            <a href="<?= base_url() ?>" >Inicio</a>
+                            <a style="margin-top: 1.4px;" href="<?= base_url() ?>" >Inicio</a>
                             </li>
                         <li>
-                            <a href="#clinica">La clínica</a>
+                            <a style="margin-top: 1.4px;" href="<?= base_url() ?>#clinica">La clínica</a>
                         </li>
-                        <li>
-                            <a href="#servicios">Servicios</a>
+                           <li class="dropdown">
+                            <a href="<?= base_url() ?>#servicios" class="dropdown-toggle active" data-toggle="dropdown" >Servicios</a>
+                            <ul class="dropdown-menu">
+                               
+
+
+                                 <li class="dropdown">
+                                    <a href="<?= base_url('fisioterapia') ?>" class="dropdown-toggle" data-toggle="dropdown" >FisioTerapia</a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="<?= base_url('epi') ?>">EPI</a></li>
+                                        <li><a href="<?= base_url('nmp-e') ?>">NMP-E</a></li>
+                                        <li><a href="<?= base_url('ecografia') ?>">ECOGRAFIA</a></li>
+                                        <li><a href="<?= base_url('tecarterapia') ?>">TECARTERAPIA</a></li>
+                                        <li><a href="<?= base_url('terapiaManual') ?>">TERAPIA MANUAL</a></li>
+                                        <li><a href="<?= base_url('FisioterapiaRespiratoria') ?>">FisioTerapia Respiratoria</a></li>
+                                    </ul>
+                                </li>
+
+                                <li><a href="<?= base_url('osteopatia') ?>">Osteopatia</a></li>
+                                <li><a href="<?= base_url('podologia') ?>">Podologioa</a></li>
+                                <li><a href="<?= base_url('nutricion') ?>">Nutrición</a></li>
+                                <li><a href="<?= base_url('pilatesTerapeutico') ?>">Pilates Terapéutico</a></li>
+                                <li><a href="<?= base_url('gimnasiaAbdominalHipopresiva') ?>">Gimnasia Abdominal Hipopresiva</a></li>
+                                <li><a href="<?= base_url('ejercicioTerapeutico') ?>">Ejercicio Terapéutico</a></li>
+                                <li><a href="<?= base_url('HathaYoga') ?>">Hatha Yoga</a></li>
+                            </ul>
                         </li>
+                       
                         <li>
-                            <a href="#equipo">Equipo</a>
+                            <a href="<?= base_url('') ?>#equipo">Equipo</a>
                         </li>
                         <li>
                             <a href="<?= base_url('blog') ?>">Blog</a>
@@ -152,6 +175,11 @@
                         <li>
                             <a href="<?= base_url('contacto') ?>">Contacto</a>
                         </li>
+
+                            <li>
+                            <a href="<?= base_url('galeriaImagenes') ?>">Galeria</a>
+                        </li>
+
                     </ul>
                 </div><!-- /.navbar-collapse -->
             </div>

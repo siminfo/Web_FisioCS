@@ -1,68 +1,85 @@
 
+<div style="width: 80%; border: solid 1px #264d6c ; margin: auto; margin-bottom: 20px " ></div>
+ <!-- Start Fun Factor
+
+    ============================================= -->
+
+       
+         <div class="slider">
+    <div class="slide-track">
+        <div class="slide" >
+           <img style="margin-left: 20px; margin-right: 20px;" src="assets/img/upart.png" />
+        </div>
+        <div class="slide">
+            <img  style="margin-left: 20px; margin-right: 20px;" src="assets/img/upart.png" alt="" />
+        </div>
+        <div class="slide">
+           <img  style="margin-left: 20px; margin-right: 20px;" src="assets/img/alpino.png" alt="" />
+        </div>
+        <div class="slide">
+           <img  style="margin-left: 20px; margin-right: 20px;" src="assets/img/delpie.png" alt="" />
+        </div>
+        <div class="slide">
+           <img  style="margin-left: 20px; margin-right: 20px;" src="assets/img/upart.png" />
+        </div>
+        <div class="slide">
+            <img  style="margin-left: 20px; margin-right: 20px;" src="assets/img/upart.png"  alt="" />
+        </div>
+        <div class="slide">
+           <img  style="margin-left: 20px; margin-right: 20px;" src="assets/img/alpino.png"  alt="" />
+        </div>
+        <div class="slide">
+           <img  style="margin-left: 20px; margin-right: 20px;" src="assets/img/delpie.png"  alt="" />
+        </div>
+        <div class="slide">
+           <img  style="margin-left: 20px; margin-right: 20px;" src="assets/img/upart.png"  />
+        </div>
+        <div class="slide">
+            <img  style="margin-left: 20px; margin-right: 20px;" src="assets/img/upart.png"  alt="" />
+        </div>
+        <div class="slide">
+           <img  style="margin-left: 20px; margin-right: 20px;" src="assets/img/alpino.png"  alt="" />
+        </div>
+        <div class="slide">
+           <img  style="margin-left: 20px; margin-right: 20px;" src="assets/img/delpie.png"  alt="" />
+        </div>
+    </div>
+
+            </div>
+        
+    </div>
+    <!-- End Fun Factor -->
+
+
+
     <!-- Start Footer 
     ============================================= -->
-    <footer>
-        <div class="container">
-            <div class="row">
-
-                <div class="f-items default-padding">
-
-                    <!-- Single Item -->
-                    <div class="col-md-4 item">
-                        <div class="f-item">
-                            <h4>Sobre nosotros</h4>
-                            <p>
-                                Praesent a eros rhoncus, sagittis lectus sed, consectetur diam. Vestibulum quis leo vitae mi pharetra fringilla et ut purus.
-                            </p>
-                            
-                            <div class="opening-info">
-                               
-                           <h2><i class="fas fa-phone"></i> +633 527 882</h2>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End Single Item -->
-                    <!-- Single Item -->
-                    <div class="col-md-4 item">
-                        <div class="f-item link">
-
-                        
-                        <div class="opening-info">
-                        <h5>Horario</h5>
-                        <ul>
-                        <li> <span> Lunes - Viernes :  </span>
-                        <div class="pull-right"> 9.00 am - 21.00 pm </div>
-                        </li>
-
-                        </ul>
-                        </div>
-                        </div>
-                    </div>
-                    <!-- End Single Item -->
-                    <!-- Single Item -->
-                    <div class="col-md-4 item">
-                       <img src="assets/img/logo.png" class="logo" alt="Logo" height="50">
-                    </div>
-                    <!-- End Single Item -->
-                </div>
-            </div>
-        </div>
+    <footer style="margin-top: 30px">
+        
         <!-- Start Footer Bottom -->
         <div class="footer-bottom bg-dark text-light">
             <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-0324c916-3f51-48b7-9fbb-144a5a27232b"></div>
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6">
-                        <p>&copy; Copyright 2020. by <a href="#">siminfo</a></p>
-                    </div>
-                    <div class="col-md-6 text-right link">
-                        <ul>
-                            <li>
-                                <a href="#">Terms of user</a>
-                            </li>
-                        
-                        </ul>
+
+                    <div class="col-md-4">
+
+
+                     <h2><i class="fas fa-phone"></i> 633 528 982</h2>
+
+                     </div>
+
+                      <div class="col-md-4">
+
+
+                         <span> Lunes - Viernes :   9.00 am - 21.00 pm  </span>
+                     
+                       
+
+                     </div>
+                    <div class="col-md-4">
+                        <p>&copy; Copyright 2020. by<a href="#"> SimInfo </a> - ClinicaSerrano </p>
                     </div>
                 </div>
             </div>
@@ -92,6 +109,11 @@
     <script src="assets/js/jquery.nice-select.min.js"></script>
     <script src="assets/js/bootsnav.js"></script>
     <script src="assets/js/main.js"></script>
+<script >
+    
 
+jQuery('.mix-item-menu button').mousedown()
+
+</script>
 </body>
 </html>

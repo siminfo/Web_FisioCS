@@ -218,7 +218,7 @@
                 "<i class='fa fa-angle-right'></i>"
             ],
             dots: false,
-            autoplay: true,
+            autoplay: false,
             responsive: {
                 0: {
                     items: 1
@@ -245,7 +245,7 @@
                 "<i class='fa fa-angle-right'></i>"
             ],
             dots: false,
-            autoplay: true,
+            autoplay: false,
             responsive: {
                 0: {
                     items: 1
@@ -271,7 +271,7 @@
                 "<i class='fa fa-angle-right'></i>"
             ],
             dots: false,
-            autoplay: true,
+            autoplay: false,
             responsive: {
                 0: {
                     items: 1
