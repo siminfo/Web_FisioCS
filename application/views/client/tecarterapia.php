@@ -7,7 +7,7 @@
                 <!-- Services Content -->
                 <div class="col-md-8 content">
                     <div class="thumb">
-                        <img src="assets/img/fisioterapia.jpg" alt="Thumb">
+                        <img src="assets/img/human.jpg" alt="Thumb">
                     </div>
                     <div class="info">
                         <h2>Tecarterapia  con Human Tecar®</h2>
@@ -52,9 +52,21 @@ Las tecnologías innovadoras de Human Tecar®, apoyadas por la investigación ci
                         </div>
 
                     </div>
+<br><br><br>
 
-
-
+                            <div class="video">
+                                <a href="https://www.youtube.com/watch?v=I9xOU1klwzk" class="popup-youtube relative theme video-play-button item-center">
+                                    <i class="fa fa-play"></i>
+                                </a>
+                            </div>
+                            <div class="content">
+                                <br><br>
+                                <h4>Video de Human Tecar® </h4>
+                                <p>
+                                  Trabajamos con la tecnología Human Tecar® para mejorar los tratamientos de nuestros clientes.
+                                </p>
+                            </div>
+                       
 
                 </div>
                 <!-- End Services Content -->
@@ -116,7 +128,7 @@ Las tecnologías innovadoras de Human Tecar®, apoyadas por la investigación ci
                               <div class="pull-right closed"> Cerrado </div>
                             </li>
                              <li> <span>  </span>
-                          <span style="font-size: 18px">   <img src="assets/img/alerta.png"  >  Horario flexsible  </span> 
+                          <span style="font-size: 18px">   <img src="assets/img/alerta.png"  >  Horario FLEXIBLE  </span> 
                             </li>
                         </ul>
                     </div>

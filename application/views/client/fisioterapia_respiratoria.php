@@ -141,7 +141,7 @@
                               <div class="pull-right closed"> Cerrado </div>
                             </li>
                              <li> <span>  </span>
-                          <span style="font-size: 18px">   <img src="assets/img/alerta.png"  >  Horario flexsible  </span> 
+                          <span style="font-size: 18px">   <img src="assets/img/alerta.png"  >  Horario FLEXIBLE  </span> 
                             </li>
                         </ul>
                     </div>

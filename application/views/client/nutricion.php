@@ -7,10 +7,17 @@
                 <!-- Services Content -->
                 <div class="col-md-8 content">
                     <div class="thumb">
-                        <img src="assets/img/fisioterapia.jpg" alt="Thumb">
+                        <img src="assets/img/nutricion.jpg" alt="Thumb">
                     </div>
                     <div class="info">
-                        <h2>Nutrición Clinica</h2>
+
+
+                        El Nutricionista - Dietista desarrolla actividades orientadas al mantenimiento de la salud de los pacientes a través de prácticas adecuadas a las necesidades fisiológicas y, en su caso, patológicas; siempre actuando desde una alimentación saludable.
+                        <br>
+                        Tratamientos del Nutricionista
+
+
+                        <h4>Nutrición Clinica</h4>
                         <p>
                          Asesoramiento nutricional personalizado y exhaustivo de pacientes enfermos (tras su diagnóstico médico), teniendo en cuenta sus necesidades específicas, preferencias personales, socioeconómicas, religiosas y culturales.
                         </p>
@@ -185,7 +192,7 @@
                               <div class="pull-right closed"> Cerrado </div>
                             </li>
                              <li> <span>  </span>
-                          <span style="font-size: 18px">   <img src="assets/img/alerta.png"  >  Horario flexsible  </span> 
+                          <span style="font-size: 18px">   <img src="assets/img/alerta.png"  >  Horario FLEXIBLE  </span> 
                             </li>
                         </ul>
                     </div>

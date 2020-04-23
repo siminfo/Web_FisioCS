@@ -71,7 +71,7 @@
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                         <i class="fa fa-bars"></i>
                     </button>
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="<?= base_url(); ?>">
                         <img src="assets/img/logo.png" class="logo" alt="Logo" height="50">
                     </a>
                 </div>

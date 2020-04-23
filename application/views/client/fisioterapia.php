@@ -31,8 +31,9 @@
                             
                             <ul>
                                 <li>Fisioterapia Invasiva</li>
+                                 <li>Fisioterapia Respiratoria</li>
                                 <li>Fisioterapia Deportiva</li>
-                                <li>Fisioterapia Traumatológica</li>
+                            
                               
                             </ul>
 
@@ -41,9 +42,10 @@
                          <div class="col-md-4">
                             
                             <ul>
+                                    <li>Fisioterapia Traumatológica</li>
                                 <li>Fisioterapia Neurológica</li>
                                 <li>Fisioterapia Pediátrica</li>
-                                <li>Fisioterapia Uroginecológica</li>
+                               
                             </ul>
                             
                         </div>
@@ -51,6 +53,7 @@
                          <div class="col-md-4">
                             
                             <ul>
+                                 <li>Fisioterapia Uroginecológica</li>
                                 <li>Fisioterapia Estética</li>
                             </ul>
                             
@@ -119,14 +122,7 @@
                             </a>
                         </div>
                     </div>
-                     <div class="col-md-3 col-sm-6 equal-height">
-                        <div class="item">
-                            <a href="<?= base_url('FisioterapiaRespiratoria') ?>">
-                                <i class="flaticon-neurology"></i>
-                                <h4>Fisioterapia Respiratoria.</h4>
-                            </a>
-                        </div>
-                    </div>
+                    
                     <!-- End Single Item -->
                 </div>  
             </div>
@@ -197,7 +193,7 @@
 
                             </li>
                              <li> <span>  </span>
-                          <span style="font-size: 18px">   <img src="assets/img/alerta.png"  >  Horario flexsible  </span> 
+                          <span style="font-size: 18px">   <img src="assets/img/alerta.png"  >  Horario FLEXIBLE  </span> 
                             </li>
                         </ul>
                     </div>

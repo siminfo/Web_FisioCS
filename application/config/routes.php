@@ -27,7 +27,8 @@ $route['HathaYoga'] = 'home/yoga';
 
 $route['empleado'] = 'home/empleado';
 
-
+$route['nmp-e'] = 'home/nmp';
+$route['ecografia'] = 'home/ecografia';
 
 
 
@@ -40,7 +41,7 @@ $route['personal'] = 'homeAdmin/personal';
 
 
 $route['galeriaImagenes'] = 'home/galeria';
-$route['galeria'] = 'home/galeria';
+$route['galeria'] = 'homeAdmin/galeria';
 $route['borrarFoto/(:num)'] = 'homeAdmin/borrarFoto/$1';
 $route['subirFoto'] = 'homeAdmin/subirFoto';
 $route['subirFotoGaleria'] = 'homeAdmin/subirFotoGaleria';

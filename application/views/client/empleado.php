@@ -23,12 +23,48 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-8" class="services-details-area default-padding">
                     <div class="info">
                         <h2><?= $personal['nombre'] ?></h2>
 <br>
-                        <p><?= $personal['texto2'] ?></p>
-                       
+             
+
+<?php 
+
+
+$datos= explode(";",$personal['texto2']);
+
+
+
+
+ ?>
+
+
+
+<ul>
+
+<?php 
+
+for ($i=0; $i < count($datos) ; $i++) {  ?>
+    
+
+<li> - <?= $datos[$i] ?></li>
+
+
+
+<?php
+
+}
+
+
+?>
+
+
+
+</ul>
+
+
+
 <br>
 <br>
 <br>

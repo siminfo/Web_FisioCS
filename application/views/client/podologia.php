@@ -7,7 +7,7 @@
                 <!-- Services Content -->
                 <div class="col-md-8 content">
                     <div class="thumb">
-                        <img src="assets/img/fisioterapia.jpg" alt="Thumb">
+                        <img src="assets/img/podologia.jpg" alt="Thumb">
                     </div>
                     <div class="info">
                         <h2>Podologia</h2>
@@ -264,7 +264,7 @@
                               <div class="pull-right closed"> Cerrado </div>
                             </li>
                              <li> <span>  </span>
-                          <span style="font-size: 18px">   <img src="assets/img/alerta.png"  >  Horario flexsible  </span> 
+                          <span style="font-size: 18px">   <img src="assets/img/alerta.png"  >  Horario FLEXIBLE  </span> 
                             </li>
                         </ul>
                     </div>

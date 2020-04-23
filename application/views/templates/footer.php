@@ -11,7 +11,7 @@
            <img style="margin-left: 20px; margin-right: 20px;" src="assets/img/upart.png" />
         </div>
         <div class="slide">
-            <img  style="margin-left: 20px; margin-right: 20px;" src="assets/img/upart.png" alt="" />
+            <img  style="margin-left: 20px; margin-right: 20px;" src="assets/img/sanchezLogo.jpg" alt="" />
         </div>
         <div class="slide">
            <img  style="margin-left: 20px; margin-right: 20px;" src="assets/img/alpino.png" alt="" />
@@ -74,7 +74,8 @@
 
 
                          <span> Lunes - Viernes :   9.00 am - 21.00 pm  </span>
-                     
+                         <br>
+                        <span style="color:#FFFFFF"> FLEXIBILIDAD HORARIA </span>
                        
 
                      </div>

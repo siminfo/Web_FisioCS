@@ -58,7 +58,7 @@
                                 <i class="fas fa-map-marker-alt"></i> C/ Alcalde José Luís Lassaletta, 17, 03008 Alicante
                             </li>
                             <li>
-                                <i class="fas fa-envelope-open"></i> info@serranoclinica.com
+                                <i class="fas fa-envelope-open"></i> clinicaserranofyo@gmail.com
                             </li>
                             <li>
                                 <i class="fas fa-phone"></i> +633 528 982
@@ -121,7 +121,7 @@
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                         <i class="fa fa-bars"></i>
                     </button>
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="<?= base_url() ?>">
                         <img src="assets/img/logo.png" class="logo" alt="Logo" height="50">
                     </a>
                 </div>
@@ -152,12 +152,12 @@
                                         <li><a href="<?= base_url('ecografia') ?>">ECOGRAFIA</a></li>
                                         <li><a href="<?= base_url('tecarterapia') ?>">TECARTERAPIA</a></li>
                                         <li><a href="<?= base_url('terapiaManual') ?>">TERAPIA MANUAL</a></li>
-                                        <li><a href="<?= base_url('FisioterapiaRespiratoria') ?>">FisioTerapia Respiratoria</a></li>
+                                     
                                     </ul>
                                 </li>
 
                                 <li><a href="<?= base_url('osteopatia') ?>">Osteopatia</a></li>
-                                <li><a href="<?= base_url('podologia') ?>">Podologioa</a></li>
+                                <li><a href="<?= base_url('podologia') ?>">Podologia</a></li>
                                 <li><a href="<?= base_url('nutricion') ?>">Nutrición</a></li>
                                 <li><a href="<?= base_url('pilatesTerapeutico') ?>">Pilates Terapéutico</a></li>
                                 <li><a href="<?= base_url('gimnasiaAbdominalHipopresiva') ?>">Gimnasia Abdominal Hipopresiva</a></li>

@@ -7,7 +7,7 @@
                 <!-- Services Content -->
                 <div class="col-md-8 content">
                     <div class="thumb">
-                        <img src="assets/img/fisioterapia.jpg" alt="Thumb">
+                        <img src="assets/img/gimnasia.jpg" alt="Thumb">
                     </div>
                     <div class="info">
                         <h2>Gimnasia Abdominal Hipopresiva</h2>
@@ -37,7 +37,6 @@ El objetivo de esta gimnasia es regular y compensar los efectos de la hiperpresi
                                 <li>Disfunciones de suelo pélvico: incontinencia urinaria, prolapsos</li>
                                 <li>Alteración de la postura y dolores derivados</li>
                                 <li>Patología de columna: hernias discales</li>
-                                <li>Trastornos digestivos: estreñimiento, gases, colon irritable</li>
                                 <li>Trastornos digestivos: estreñimiento, gases, colon irritable</li>
                                 <li>Problemas respiratorios</li>
                                  <li>Mejora del rendimiento deportivo</li>
@@ -175,7 +174,7 @@ Si los casos mencionados arriba son familiares para Usted, no dude en ponerse en
                               <div class="pull-right closed"> Cerrado </div>
                             </li>
                              <li> <span>  </span>
-                          <span style="font-size: 18px">   <img src="assets/img/alerta.png"  >  Horario flexsible  </span> 
+                          <span style="font-size: 18px">   <img src="assets/img/alerta.png"  >  Horario FLEXIBLE  </span> 
                             </li>
                         </ul>
                     </div>

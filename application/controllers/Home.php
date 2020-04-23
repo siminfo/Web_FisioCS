@@ -120,6 +120,22 @@ class Home extends CI_Controller
 	$this->load->view('templates/footer');		
 	}
 
+		public function nmp()
+	{
+
+	$this->load->view('templates/header');
+	$this->load->view('client/nmp');
+	$this->load->view('templates/footer');		
+	}
+
+
+			public function ecografia()
+	{
+
+	$this->load->view('templates/header');
+	$this->load->view('client/ecografia');
+	$this->load->view('templates/footer');		
+	}
 
 
 				public function nutricion()

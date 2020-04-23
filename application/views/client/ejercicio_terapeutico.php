@@ -7,12 +7,19 @@
                 <!-- Services Content -->
                 <div class="col-md-8 content">
                     <div class="thumb">
-                        <img src="assets/img/fisioterapia.jpg" alt="Thumb">
+                        <img src="assets/img/ejercicio.jpg" alt="Thumb">
                     </div>
                     <div class="info">
-                        <h2>EJERCICIO TERAPÉUTICO</h2>
+
+
+
+En Clínica Serrano tenemos destinado un espacio desarrollado para mejorar tu salud y tu condición física, así como para realizar procesos de readaptación.
+
+
+
+                        <h4>EJERCICIO TERAPÉUTICO</h4>
                         <p>
-                        En Clínica Serrano, clínica especializada en ejercicio terapéutico,  trabajamos para el desarrollo integral de la salud de nuestros pacientes, y como no podía ser de otro modo, vemos vital un servicio de actividad física para promocionar la salud y el ejercicio físico, siempre dirigido por profesionales calificados.
+                        En la Clínica esta especializada en ejercicio terapéutico,  trabajamos para el desarrollo integral de la salud de nuestros pacientes, y como no podía ser de otro modo, vemos vital un servicio de actividad física para promocionar la salud y el ejercicio físico, siempre dirigido por profesionales calificados.
                     </div>
 
 
@@ -187,7 +194,7 @@
                               <div class="pull-right closed"> Cerrado </div>
                             </li>
                              <li> <span>  </span>
-                          <span style="font-size: 18px">   <img src="assets/img/alerta.png"  >  Horario flexsible  </span> 
+                          <span style="font-size: 18px">   <img src="assets/img/alerta.png"  >  Horario FLEXIBLE  </span> 
                             </li>
                         </ul>
                     </div>

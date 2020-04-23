@@ -1,7 +1,7 @@
 
     <!-- Start Breadcrumb 
     ============================================= -->
-    <div class="breadcrumb-area shadow dark bg-fixed text-light" style="background-image: url(assets/img/2440x1578.png);">
+    <div class="breadcrumb-area shadow  bg-fixed text-light" style="background-image: url(assets/img/home4.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
@@ -48,7 +48,7 @@
                             <i class="fas fa-envelope-open"></i>
                             <h4>Email</h4>
                             <p>
-                                info@clinicaserrano.com<br>
+                                clinicaserranofyo@gmail.com<br>
                             </p>
                         </div>
                     </div>

@@ -32,10 +32,10 @@
                         <div class="box-cell">
                             <div class="container">
                                 <div class="row">
-                                    <div class="col-md-8">
+                                    <div class="col-md-8">MULTIDISCIPLINAR
                                         <div class="content">
-                                            <h1 data-animation="animated fadeInUp">Multi<span>distiplina</span></h1>
-                                            <h2 data-animation="animated fadeInDown">Affordable solution by better technology</h2>
+                                            <h1 data-animation="animated fadeInUp">Multi<span>disciplinar</span></h1>
+                                    
                                             <p data-animation="animated slideInUp">
                                                Nos caracterizamos por tener una amplia gama de servicios que harán que su tratamiento pueda ser el más completo posible
                                             </p>
@@ -99,14 +99,14 @@
                         <p>La clínica está ubicada en calle Alcalde José Luis Lassaletta nº17 con código postal 03008 en Alicante, muy cercana a la salida de la autovía por lo que tiene muy buena comunicación. Además está situada en una zona muy tranquila y de fácil aparcamiento.</p>
                         <div class="bottom">
                             <div class="video">
-                                <a href="https://www.youtube.com/watch?v=I9xOU1klwzk" class="popup-youtube relative theme video-play-button item-center">
+                                <a href="" class="popup-youtube relative theme video-play-button item-center">
                                     <i class="fa fa-play"></i>
                                 </a>
                             </div>
                             <div class="content">
-                                <h4>Video de Human Tecar® </h4>
+                                <h4>Video Clínica Serrano </h4>
                                 <p>
-                                  Trabajamos con la tecnología Human Tecar® para mejorar los tratamientos de nuestros clientes.
+                                 
                                 </p>
                             </div>
                         </div>
@@ -158,9 +158,9 @@
                             <!-- Single Item -->
                             <div id="tab3" class="tab-pane fade">
                                 <div class="info title">
-                                    <h3>Horario  <span style="margin-left: 20px; font-size: 15px; margin-top: -5px">   <img src="assets/img/alerta.png"  > flexsible  </span> </h3>  
+                                    <h3>Horario  <span style="margin-left: 20px; font-size: 15px; margin-top: -5px">   <img src="assets/img/alerta.png"  > FLEXIBLE  </span> </h3>  
                                     <p>
-                                       accumsan sed felis eu, porta sollicitudin felis. Praesent a eros rhoncus, sagittis lectus sed, consectetur diam.
+                                      No dudes en contactarnos para cualquier consulta. Somos un equipo de trabajo que nos caracterizamos por tener <span style="color:#264d6c"> FLEXIBILIDAD HORARIA </span>
                                     </p>
                                     <ul>
                                         <li> <span> Lunes - Viernes :  </span>
@@ -194,8 +194,8 @@
                         <h2>Nuestros <span>Servicios</span></h2>
                         <p>
                          En Clínica Serrano ofrecemos una amplia gama de servicios para la salud integral de nuestros pacientes, conformando un equipo multidisciplinar especializado en las últimas técnicas y con la tecnología más puntera.
-                          <br>
-                          <span style="color: #264d6c;">Fisioterapia</span>,<span style="color: #264d6c;">Osmeopatia</span>
+                
+                         
                         </p>
                     </div>
                 </div>
@@ -224,14 +224,14 @@
                         <div class="item">
                             <div class="info">
                                 <h4>
-                                    <a  href="<?=  base_url('osteopatia') ?>">osteopatia</a>
+                                    <a  href="<?=  base_url('osteopatia') ?>">Osteopatía</a>
                                 </h4>
                                 <div class="overlay overlayServices">
                                      <img src="assets/img/iconos/huesosIcon.png" style="border-radius: 50%; " >
                                    
                                 </div>
                                 <p>
-                                  La Osteopatía nos dará el enfoque holístico para poder dar con el origen de su dolor y así garantizarle mayor calidad de vida
+                                  La Osteopatía nos dará el enfoque holístico para poder dar con el origen de su dolor y así garantizarle mayor calidad de vida.
                                   
                                 </p>
                                 <a class="btn btn-theme border circle btn-md"  href="<?=  base_url('osteopatia') ?>">Ver mas</a>
@@ -242,7 +242,7 @@
                         <div class="item">
                             <div class="info">
                                 <h4>
-                                    <a  href="<?=  base_url('podologia') ?>"> Podologia</a>
+                                    <a  href="<?=  base_url('podologia') ?>"> Podología </a>
                                 </h4>
                                 <div class="overlay overlayServices">
                                     <img src="assets/img/iconos/podologo.png" style="border-radius: 50%; " >
@@ -290,7 +290,7 @@
                                 Sesiones de Pilates terapéutico con fisioterapeutas expertos, previa valoración y con la misión de prevenir y curar posibles patologías. 
  
                                 </p>
-                                <a class="btn btn-theme border circle btn-md" href="<?=  base_url('pilatesTerapéutico') ?>">Ver mas</a>
+                                <a class="btn btn-theme border circle btn-md" href="<?=  base_url('pilatesTerapeutico') ?>">Ver mas</a>
                             </div>
                         </div>
                         <!-- End Single Item -->
@@ -298,10 +298,10 @@
                         <div class="item">
                             <div class="info">
                                 <h4>
-                                    <a  href="<?= base_url('gimnasiaAbdominalHipopresiva') ?>"> Gimnasia Abdominal</a>
+                                    <a  href="<?= base_url('gimnasiaAbdominalHipopresiva') ?>"> Hipopresivos</a>
                                 </h4>
                                 <div class="overlay overlayServices">
-                                  <img src="assets/img/iconos/entrenamientoIcon.png" style="border-radius: 50%; " >
+                                  <img src="assets/img/iconos/pilates6.png" style="border-radius: 50%; " >
                                
                                 </div>
                                 <p>
@@ -320,13 +320,13 @@
                                     <a  href="<?= base_url('ejercicioTerapéutico') ?>">Ejercicio Terapéutico</a>
                                 </h4>
                                 <div class="overlay overlayServices">
-                                    <img src="assets/img/iconos/pilates6.png" style="border-radius: 50%; " >
+                                    <img src="assets/img/iconos/entrenamientoIcon.png" style="border-radius: 50%; " >
                                  
                                 </div>
                                 <p>
                                 En Clínica Serrano tenemos destinado un espacio desarrollado para mejorar tu salud y tu condición física, así como para realizar procesos de readaptación.
                                 </p>
-                                <a class="btn btn-theme border circle btn-md" href="<?= base_url('ejercicioTerapéutico') ?>">Ver mas</a>
+                                <a class="btn btn-theme border circle btn-md" href="<?= base_url('ejercicioTerapeutico') ?>">Ver mas</a>
                             </div>
                         </div>
                         <!-- End Single Item -->
@@ -367,7 +367,7 @@
                     <div class="heading">
                         <h2>Porque confiar en nosotros</h2>
                         <p>
-                           En Clínica Serrano creemos que deberías confiar en nosotros por la amplia gama de servicios punteros de los que disponemos. Estos servicios tienen en común esta serie de caracterísiticas
+                           En Clínica Serrano creemos que deberías confiar en nosotros por la amplia gama de servicios punteros de los que disponemos. Estos servicios tienen en común esta serie de caracterísiticas.
                         </p>
                     </div>
                     <ul>
@@ -420,7 +420,7 @@
                     <div class="site-heading text-center">
                         <h2>Nuestros <span>Especialistas</span></h2>
                         <p>
-                           Ponemos a su disposición a profesionales especializados en todo tipo de lesiones que le garantizarán el mejor tratamiento para usted.
+                          Ponemos a su disposición a profesionales altamente formados en su especialidad, lo que garantizará un mejor resultado.
                         </p>
                     </div>
                 </div>
@@ -480,7 +480,7 @@
 
  <!-- Start Fun Factor
     ============================================= -->
-    <div class="fun-fact-area default-padding shadow dark text-center bg-fixed text-light" style="background-image: url(assets/img/2440x1578.png);">
+   <!--  <div class="fun-fact-area default-padding shadow dark text-center bg-fixed text-light" style="background-image: url(assets/img/2440x1578.png);">
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-6 item">
@@ -513,7 +513,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- End Fun Factor -->
 
 
@@ -526,7 +526,7 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <div class="site-heading text-center">
-                        <h2>Valoraciones<span>clientes</span></h2>
+                        <h2>Valoraciones <span>clientes</span></h2>
                         <p>
                              La mejor garantia eres tu.
                         </p>
@@ -583,7 +583,7 @@
                 <div class="row">
                     <div class="col-md-12 gallery-content">
                        <div class="site-heading text-center">
-                        <h2>Nuestra<span>Galeria</span></h2>
+                        <h2>Nuestra <span>Galeria</span></h2>
                         <p>
                             <a class="btn btn-theme border circle btn-md" href="<?= base_url('galeriaImagenes')  ?>">Ver Todas</a>
                         </p>

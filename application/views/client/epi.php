@@ -7,12 +7,12 @@
                 <!-- Services Content -->
                 <div class="col-md-8 content">
                     <div class="thumb">
-                        <img src="assets/img/fisioterapia.jpg" alt="Thumb">
+                        <img src="assets/img/epi.jpg" alt="Thumb">
                     </div>
                     <div class="info">
-                        <h2>EPI</h2>
+                        <h2>EPI ®</h2>
                         <p>
-                          La Electrolisis Percutánea Intratisular es una  técnica que consiste en introducir una aguja de acupuntura a través de la cual se transmite corriente galvánica de alta intensidad durante un corto período de tiempo en diferentes zonas de un tejido degenerado, fundamentalmente en tendón, con el objetivo de producir una respuesta biológica que active los mecanismos fisiológicos de regeneración del tejido, como son la fagocitosis y la reparación del tejido afectado. Dicha corriente al entrar en contacto con el tejido degenerado fibrótico produce una reacción química (electrolisis) que lo “destruye”, no así el tejido sano, que permanece intacto.
+                          La Electrolísis Percutánea Intratisular es una  técnica que consiste en introducir una aguja de acupuntura a través de la cual se transmite corriente galvánica de alta intensidad durante un corto período de tiempo en diferentes zonas de un tejido degenerado, fundamentalmente en tendón, con el objetivo de producir una respuesta biológica que active los mecanismos fisiológicos de regeneración del tejido, como son la fagocitosis y la reparación del tejido afectado. Dicha corriente al entrar en contacto con el tejido degenerado fibrótico produce una reacción química (electrolísis) que lo “destruye”, no así el tejido sano, que permanece intacto.
 
                             Es importante entender que no lo electrocuta ni nada parecido, sino que la reacción química lo transforma para que después el propio cuerpo lo regenere.
 
