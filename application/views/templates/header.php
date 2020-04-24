@@ -71,8 +71,12 @@
                     <ul class="link">
                         <li  style="margin-right: 10px " href="#" class="facebook"><a href="https://www.facebook.com/Clinica-Serrano-113104543431523/"><i class="fab fa-facebook-f"></i></a></li>
                         <li style="margin-right: 10px " href="#" class="instagram"><a href="#"><i class="fab fa-instagram"></i></a></li>
+
+                        <li  >  <button class="boton" id="myBtn"> PROTOCOLO COVID19</button> </li>
                     </ul>
+
                 </div>
+
                 </div>
                 
             </div>
