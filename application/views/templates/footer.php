@@ -5,15 +5,14 @@
 
 <!-- Trigger/Open The Modal -->
 
-
 <!-- The Modal -->
 <div id="myModal" class="modal">
 
   <!-- Modal content -->
-  <div class="modal-content">
+  <div class="modal-content  modal-normal">
     <span id="cerrar" class="close">&times;</span>
         
-<img src="assets/img/protocoloCOVID.jpeg"  >
+<img class="img-responsive" src="assets/img/protocolo.jpg"  style="margin: auto;" >
 
 
   </div>
@@ -25,6 +24,10 @@
 
 <style>
 
+
+
+
+
 /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
@@ -33,7 +36,7 @@
   padding-top: 20px; /* Location of the box */
   left: 0;
   top: 0;
-
+  
   overflow: auto; /* Enable scroll if needed */
   background-color: rgb(0,0,0); /* Fallback color */
   background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
@@ -45,7 +48,7 @@
   margin: auto;
   padding: 20px;
   border: 1px solid #888;
-  width: 50%;
+  width: 90%;
 }
 
 /* The Close Button */

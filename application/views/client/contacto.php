@@ -1,7 +1,7 @@
 
     <!-- Start Breadcrumb 
     ============================================= -->
-    <div class="breadcrumb-area shadow  bg-fixed text-light" style="background-image: url(assets/img/home4.jpg);">
+    <div class="breadcrumb-area shadow  bg-fixed text-light" style="background-image: url(assets/img/contacto.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
